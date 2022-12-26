@@ -30,7 +30,7 @@
     height: 90%;
   }
   /* !#-озночает айди */
-  #vector1 {
+  #vector_1 {
     left: -41px;
   }
 }
@@ -117,5 +117,56 @@
   }
   .navbar__btn_burger {
     display: block;
+  }
+
+  /* ! add codes */
+  #vector_1 {
+    left: 5px;
+    top: 56px;
+  }
+  vector_3 {
+    width: 45px;
+  }
+  #vector_4 {
+    right: 22px;
+  }
+  .services__title_main {
+    font-size: 30px;
+  }
+  ,
+  services__title {
+    font-size: 23px;
+  }
+  .services__desk {
+    font-size: 16px;
+  }
+  .info-block__title {
+    font-size: 30px;
+  }
+  .footer__list {
+    width: 45%;
+  }
+  .footer__logo {
+    width: 35%;
+  }
+  @media all and (max-width: 320px) {
+    .header__btn {
+      width: 70%;
+    }
+  }
+  #vector_1 {
+    width: 45px;
+  }
+  #vector_2 {
+    top: 52px;
+    width: 30px;
+  }
+  vector_4 {
+    width: 30px;
+  }
+  #vector_3 {
+    width: 40px;
+  }
+  #footer__list {
   }
 }
